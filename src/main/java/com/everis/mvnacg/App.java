@@ -13,5 +13,8 @@ public class App
     	String nombre = "alvaro";
         System.out.println( StringUtils.capitalize(nombre) );
         System.out.println( StringUtils.chop(nombre) );
+        
+        //añado el print de hola mundo que se pide en el ejercicio
+        System.out.println( "Hola mundo!" );
     }
 }
