@@ -16,5 +16,8 @@ public class App
         
         //añado el print de hola mundo que se pide en el ejercicio
         System.out.println( "Hola mundo!" );
+        
+        //añado también el saludo
+        System.out.println( "Hola, Alvaro!" );
     }
 }
